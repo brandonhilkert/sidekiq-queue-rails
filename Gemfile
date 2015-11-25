@@ -68,4 +68,4 @@ gem 'font-awesome-rails'
 gem 'bootstrap-sass'
 gem 'so_meta'
 gem 'local_time'
-gem 'sidekiq'
+gem 'sidekiq', path: "../sidekiq"
